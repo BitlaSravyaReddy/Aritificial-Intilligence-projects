@@ -1,1 +1,2 @@
-# Basic level Artificial intelligence projects
+
+ Artificial intelligence projects
